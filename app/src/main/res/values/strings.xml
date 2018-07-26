@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jareeda</string>
+    <string name="no_desc">No Description</string>
+    <string name="unknown_author">Unknown Author</string>
+    <string name="ini_gambar">Ini Gambar</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="sumber">Sumber</string>
+    <string name="publish_time">publish time</string>
+    <string name="judul_berita">Judul Berita</string>
+    <string name="deskripsi">Deskripsinya disini bro</string>
+    <string name="headlines">Headlines</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+</resources>
